@@ -5,7 +5,7 @@
 <section class="py-12">
 	<div class="container mx-auto py-12">
 		<div class="flex flex-wrap">
-			<div class="w-full px-3 md:w-1/2">
+			<div class="md:order-0 order-1 w-full px-3 md:w-1/2">
 				<div class="max-w-md">
 					<h3 class="mb-4 text-3xl font-bold md:text-3xl">How we work?</h3>
 					<p class="mb-6 leading-loose text-gray-400">
@@ -50,21 +50,6 @@
 </section>
 
 <style>
-	@media (min-width: 640px) {
-		.container {
-			max-width: 640px;
-		}
-	}
-	@media (min-width: 768px) {
-		.container {
-			max-width: 768px;
-		}
-	}
-	@media (min-width: 1024px) {
-		.container {
-			max-width: 1024px;
-		}
-	}
 	@media (min-width: 1200px) {
 		.container {
 			max-width: 1200px;

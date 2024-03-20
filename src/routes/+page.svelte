@@ -67,6 +67,8 @@
 	import HowWork from '$lib/home/HowWork.svelte';
 	import KeyFeatures from '$lib/home/KeyFeatures.svelte';
 	import Faqs from '$lib/home/Faqs.svelte';
+	import Contact from '$lib/home/Contact.svelte';
+	import Team from '$lib/home/Team.svelte';
 </script>
 
 <section class="semicircle absolute -top-24 h-[60vh] w-full bg-[#eff3f9] dark:bg-[#1d3144]" />
@@ -169,6 +171,8 @@
 <HowWork />
 <KeyFeatures />
 <Faqs />
+<Contact />
+<Team />
 
 <style>
 	@keyframes blink-caret {

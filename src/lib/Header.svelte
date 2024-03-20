@@ -31,7 +31,7 @@
 			<a class="font-semibold leading-none" href="/">
 				<div class="flex items-center space-x-2">
 					<img class="h-10" src="favicon.svg" alt="" />
-					<h2 class="font-[Montserrat] text-2xl font-medium leading-none">Monst</h2>
+					<h1 class="font-[Montserrat] text-2xl font-medium leading-none">Monst</h1>
 				</div>
 			</a>
 			<ul class="hidden lg:flex lg:items-center lg:space-x-12">
@@ -85,21 +85,6 @@
 		transition: all 0.3s ease-in-out;
 	}
 
-	@media (min-width: 640px) {
-		.container {
-			max-width: 640px;
-		}
-	}
-	@media (min-width: 768px) {
-		.container {
-			max-width: 768px;
-		}
-	}
-	@media (min-width: 1024px) {
-		.container {
-			max-width: 1024px;
-		}
-	}
 	@media (min-width: 1200px) {
 		.container {
 			max-width: 1200px;

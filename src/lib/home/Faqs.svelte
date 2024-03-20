@@ -20,7 +20,7 @@
 	];
 </script>
 
-<div class="container mx-auto">
+<section class="container mx-auto">
 	<div class="flex w-full lg:h-full">
 		<div class="flex-1 py-20 lg:py-16 lg:pr-32">
 			<div class="mx-auto max-w-2xl px-4 lg:ml-0">
@@ -53,7 +53,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</section>
 
 <style>
 	.collapse-plus > .collapse-title::before {
@@ -88,22 +88,6 @@
 		}
 		100% {
 			transform: translateY(0);
-		}
-	}
-
-	@media (min-width: 640px) {
-		.container {
-			max-width: 640px;
-		}
-	}
-	@media (min-width: 768px) {
-		.container {
-			max-width: 768px;
-		}
-	}
-	@media (min-width: 1024px) {
-		.container {
-			max-width: 1024px;
 		}
 	}
 	@media (min-width: 1200px) {
