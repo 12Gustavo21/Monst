@@ -14,6 +14,9 @@ _Technologies_
 - TailwindCSS <img width ='15px' src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" />
 - DaisyUI <img width ='15px' src="https://daisyui.com/images/daisyui-logo/favicon-192.png" />
 - TypeScript <img width ='15px' src="https://www.typescriptlang.org/icons/icon-192x192.png?v=8944a05a8b601855de116c8a56d3b3ae" />
++ JavaScript <img width ='20px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' />
++ HTML <img width ='20px' src ='https://cdn-icons-png.flaticon.com/512/4943/4943029.png' />
++ CSS <img width ='20px' src ='https://cdn-icons-png.flaticon.com/512/732/732190.png' />
 
 ### How to use
 
