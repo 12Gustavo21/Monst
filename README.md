@@ -21,8 +21,9 @@ _Technologies_
 ### How to use
 
 - git clone https://github.com/12Gustavo21/Monst.git or download the zip
+- npm install or yarn install
 - code . (if you use VSCode)
-- start a Live Server
+- npm run dev or yarn dev
 
 ## 💻 Online Page: None Yet
 
