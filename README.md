@@ -10,10 +10,10 @@
 
 _Technologies_
 
-- SvelteKit <img src="https://svelte.dev/favicon.png" />
-- TailwindCSS <img src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" />
-- DaisyUI <img src="https://daisyui.com/images/daisyui-logo/favicon-192.png" />
-- TypeScript <img src="https://www.typescriptlang.org/icons/icon-192x192.png?v=8944a05a8b601855de116c8a56d3b3ae" />
+- SvelteKit <img width ='15px' src="https://svelte.dev/favicon.png" />
+- TailwindCSS <img width ='15px' src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" />
+- DaisyUI <img width ='15px' src="https://daisyui.com/images/daisyui-logo/favicon-192.png" />
+- TypeScript <img width ='15px' src="https://www.typescriptlang.org/icons/icon-192x192.png?v=8944a05a8b601855de116c8a56d3b3ae" />
 
 ### How to use
 
