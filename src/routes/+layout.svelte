@@ -1,11 +1,19 @@
 <script>
-	import Navbar from '$lib/Navbar.svelte';
+	//Svelte
+	import '../app.pcss';
+	
+	//Components
+	import Header from '$lib/Header.svelte';
+	import GoToTop from '$lib/GoToTop.svelte';
 	import Footer from '$lib/Footer.svelte';
-  import '../styles/global.css'
+
+	//Styles
+	import '../styles/global.css';
 </script>
 
-<div class="layout">
-	<Navbar />
+<Header />
+<main class="dark:bg-slate-800">
 	<slot />
-	<Footer />
-</div>
+</main>
+<GoToTop />
+<Footer />

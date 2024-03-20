@@ -1,38 +1,28 @@
-# create-svelte
+# Monst
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+> Status : Unfinished project 🕰️ / Open PR
 
-## Creating a project
+## Tamplate clone
 
-If you're seeing this, you've probably already done this step. Congrats!
+> Look the design: https://wp.alithemes.com/html/monst/index-5.html
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+<img width ='800px' src ='./static/home-print.png' />
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+_Technologies_
 
-## Developing
+- SvelteKit <img src="https://svelte.dev/favicon.png" />
+- TailwindCSS <img src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" />
+- DaisyUI <img src="https://daisyui.com/images/daisyui-logo/favicon-192.png" />
+- TypeScript <img src="https://www.typescriptlang.org/icons/icon-192x192.png?v=8944a05a8b601855de116c8a56d3b3ae" />
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### How to use
 
-```bash
-npm run dev
+- git clone https://github.com/12Gustavo21/Monst.git or download the zip
+- code . (if you use VSCode)
+- start a Live Server
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## 💻 Online Page: None Yet
 
-## Building
+## 🌐 Contact me:
 
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gualmda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-almeida-421044246)
